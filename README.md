@@ -18,7 +18,21 @@
 3. 按提示完成操作
 
 ## 📸 运行截图
-<img width="662" height="340" alt="image" src="https://github.com/user-attachments/assets/6051fa63-8e43-4c5c-b50d-b5e544664cb7" />
+<table align="center">
+  <tr>
+    <td align="center"><b>执行结果1</b></td>
+    <td align="center"><b>执行结果2</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="400" alt="执行结果1" src="https://github.com/user-attachments/assets/d80b8b4d-579f-4323-a2cd-7ca9a848ee11" />
+    </td>
+    <td align="center">
+      <img width="400" alt="执行结果2" src="https://github.com/user-attachments/assets/a1745a71-fd1d-45b8-9a98-d923e5a999ba" />
+    </td>
+  </tr>
+</table>
+
 
 
 ## ⚠️ 注意事项
